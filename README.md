@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Pheenah/Pheenah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 📊 My GitHub Stats
+![Pheenah GitHub Stats](https://github-readme-stats.vercel.app/api?username=pheenah&show_icons=true&theme=dark&count_private=true)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=pheenah&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
